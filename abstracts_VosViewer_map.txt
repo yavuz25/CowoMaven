@@ -1,0 +1,301 @@
+label,id
+pr, 1
+le, 2
+ad, 3
+rm, 4
+ob, 5
+art, 6
+market, 7
+management, 8
+business, 9
+app, 10
+organization, 11
+work, 12
+marketing, 13
+company, 14
+manager, 15
+hr, 16
+firm, 17
+financial, 18
+decision, 19
+product, 20
+finance, 21
+competitive, 22
+investment, 23
+order, 24
+economic, 25
+skill, 26
+portfolio, 27
+social, 28
+programming language, 29
+service, 30
+international, 31
+action, 32
+customer, 33
+online, 34
+organizational, 35
+cost, 36
+retail, 37
+price, 38
+environment, 39
+managerial, 40
+derivative, 41
+invest, 42
+industry, 43
+financial market, 44
+operation, 45
+strategic, 46
+opportunity, 47
+sustainability, 48
+pricing, 49
+demand, 50
+national, 51
+growth, 52
+lead, 53
+competition, 54
+venture, 55
+supplier, 56
+risk, 57
+entrepreneurial, 58
+behavior, 59
+entrepreneur, 60
+entrepreneurship, 61
+corporation, 62
+capital, 63
+trade, 64
+programming, 65
+consulting, 66
+individual, 67
+equipped, 68
+oral, 69
+transportation, 70
+asset, 71
+income, 72
+payment, 73
+store, 74
+portfolio management, 75
+businesses, 76
+retailer, 77
+duty, 78
+lynn cherny, 79
+communicate, 80
+long-term, 81
+manufacturing, 82
+revenue management, 83
+teresa cooper kislik, 84
+social movement, 85
+equity, 86
+job, 87
+e-commerce, 88
+branding, 89
+retail management, 90
+organizational behavior, 91
+google, 92
+money, 93
+government, 94
+engineering, 95
+social entrepreneurship, 96
+revenue, 97
+globalization, 98
+capital market, 99
+supplier and customer, 100
+auditor, 101
+new business, 102
+sale, 103
+logistic, 104
+mining, 105
+financial risk, 106
+ethical, 107
+société générale, 108
+private, 109
+valuation, 110
+intelligence, 111
+career, 112
+advertising, 113
+people, 114
+hospital, 115
+governance, 116
+management controller, 117
+return, 118
+culture, 119
+quality, 120
+bank and insurance, 121
+pressure, 122
+technological, 123
+profit, 124
+ecr, 125
+buy, 126
+sociological, 127
+mobile, 128
+insurance, 129
+balance, 130
+consult, 131
+decision-making, 132
+financial asset, 133
+leadership, 134
+public, 135
+solvency, 136
+profitability, 137
+competitor, 138
+innovative, 139
+civil rights/ethnic nationalist, 140
+analytics, 141
+enterprise, 142
+space, 143
+supply chain, 144
+survival, 145
+dataset, 146
+power, 147
+neuroscience, 148
+web, 149
+institution, 150
+fair, 151
+purpose, 152
+mastering, 153
+cooper, 154
+flight, 155
+ibm, 156
+warehouse, 157
+leverage, 158
+partner, 159
+capability, 160
+digital, 161
+european, 162
+python, 163
+business intelligence, 164
+human, 165
+business abroad eg:, 166
+sense, 167
+material, 168
+movement, 169
+capital and private, 170
+shareholder, 171
+creative, 172
+crises, 173
+audit, 174
+consumer behavior, 175
+industry and hospitality, 176
+offer, 177
+market opportunity, 178
+consumer, 179
+alliance, 180
+production, 181
+crisis, 182
+excel, 183
+decision and managerial, 184
+succeed, 185
+security, 186
+derivative security, 187
+mathematical, 188
+europe, 189
+interactive, 190
+logistic management, 191
+collective, 192
+computational, 193
+societal, 194
+economy, 195
+jean savinien, 196
+bank, 197
+auditing, 198
+end customer, 199
+sold, 200
+organizational and managerial, 201
+ethics, 202
+optimization, 203
+executive, 204
+csr, 205
+scale, 206
+storage, 207
+stakeholder, 208
+analyst, 209
+service marketing, 210
+purchasing, 211
+resistance, 212
+customer service, 213
+supply chain management, 214
+microsoft, 215
+encourage, 216
+programming language python, 217
+entrepreneur and manager, 218
+joint-venture, 219
+segmentation, 220
+evolution, 221
+engagement, 222
+society, 223
+cultural, 224
+campaign, 225
+empowerment, 226
+cognitive, 227
+budgeting, 228
+audit firm, 229
+business abroad, 230
+client, 231
+stock, 232
+open, 233
+robert, 234
+internet, 235
+eg: international sale, 236
+covering, 237
+btob, 238
+toolbelt, 239
+personal, 240
+e-business, 241
+tactic, 242
+real-world, 243
+deep, 244
+brand manager, 245
+hedging, 246
+creation, 247
+machine, 248
+political, 249
+financial institution, 250
+c#, 251
+value-added, 252
+merger, 253
+crm, 254
+outsourcing, 255
+selling, 256
+historical, 257
+cloud, 258
+internationalist movement women, 259
+sustaining, 260
+new venture, 261
+competency, 262
+productivity, 263
+marketer, 264
+trading, 265
+foreign, 266
+asia, 267
+environmental, 268
+business decision, 269
+awareness, 270
+entry, 271
+business analyst, 272
+business analytics, 273
+international economic, 274
+club, 275
+top management, 276
+negotiation, 277
+valuable, 278
+abroad eg: international, 279
+responsibility, 280
+financial product, 281
+simon, 282
+psychology, 283
+sde, 284
+basel, 285
+strategic decision, 286
+commercial, 287
+actionable, 288
+marketing btob, 289
+explanation, 290
+deciding, 291
+skill for selling-playing, 292
+international sale commercial, 293
+in-store sale, 294
+market and industry, 295
+social venture, 296
+statistic, 297
+strategic management, 298
+nationalist and internationalist, 299
+drawback, 300

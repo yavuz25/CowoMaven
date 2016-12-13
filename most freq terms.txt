@@ -1,0 +1,300 @@
+most frequent words: management x 55
+most frequent words: marketing x 46
+most frequent words: business x 43
+most frequent words: market x 41
+most frequent words: company x 31
+most frequent words: financial x 29
+most frequent words: manager x 25
+most frequent words: firm x 24
+most frequent words: decision x 22
+most frequent words: finance x 21
+most frequent words: social x 19
+most frequent words: organization x 19
+most frequent words: organizational x 19
+most frequent words: economic x 18
+most frequent words: international x 18
+most frequent words: industry x 17
+most frequent words: skill x 17
+most frequent words: product x 16
+most frequent words: opportunity x 15
+most frequent words: strategic x 15
+most frequent words: order x 13
+most frequent words: environment x 13
+most frequent words: customer x 13
+most frequent words: behavior x 13
+most frequent words: service x 13
+most frequent words: work x 12
+most frequent words: derivative x 12
+most frequent words: growth x 11
+most frequent words: capital x 11
+most frequent words: risk x 11
+most frequent words: programming x 10
+most frequent words: managerial x 10
+most frequent words: competitive x 10
+most frequent words: cost x 10
+most frequent words: operation x 10
+most frequent words: individual x 9
+most frequent words: competition x 9
+most frequent words: investment x 8
+most frequent words: sale x 8
+most frequent words: sustainability x 8
+most frequent words: venture x 8
+most frequent words: price x 8
+most frequent words: portfolio x 7
+most frequent words: corporation x 7
+most frequent words: entrepreneurial x 7
+most frequent words: culture x 7
+most frequent words: insurance x 7
+most frequent words: entrepreneurship x 7
+most frequent words: valuation x 7
+most frequent words: leadership x 7
+most frequent words: financial market x 7
+most frequent words: negotiation x 6
+most frequent words: entrepreneur x 6
+most frequent words: digital x 6
+most frequent words: institution x 6
+most frequent words: european x 6
+most frequent words: intelligence x 6
+most frequent words: consumer x 6
+most frequent words: programming language x 6
+most frequent words: supplier x 6
+most frequent words: pricing x 6
+most frequent words: collective x 6
+most frequent words: analytics x 5
+most frequent words: mining x 5
+most frequent words: e-business x 5
+most frequent words: power x 5
+most frequent words: competitor x 5
+most frequent words: demand x 5
+most frequent words: job x 5
+most frequent words: engineering x 5
+most frequent words: supply chain x 5
+most frequent words: manufacturing x 5
+most frequent words: asset x 5
+most frequent words: purchasing x 5
+most frequent words: material x 5
+most frequent words: online x 5
+most frequent words: cultural x 5
+most frequent words: retail x 5
+most frequent words: revenue x 4
+most frequent words: bank x 4
+most frequent words: private x 4
+most frequent words: technological x 4
+most frequent words: c# x 4
+most frequent words: financial institution x 4
+most frequent words: foreign x 4
+most frequent words: governance x 4
+most frequent words: merger x 4
+most frequent words: interactive x 4
+most frequent words: human x 4
+most frequent words: money x 4
+most frequent words: organizational behavior x 4
+most frequent words: equity x 4
+most frequent words: mathematical x 4
+most frequent words: python x 4
+most frequent words: businesses x 4
+most frequent words: movement x 4
+most frequent words: portfolio management x 4
+most frequent words: csr x 3
+most frequent words: e-commerce x 3
+most frequent words: creation x 3
+most frequent words: competency x 3
+most frequent words: government x 3
+most frequent words: europe x 3
+most frequent words: economy x 3
+most frequent words: ethics x 3
+most frequent words: long-term x 3
+most frequent words: supplier and customer x 3
+most frequent words: logistic x 3
+most frequent words: web x 3
+most frequent words: partner x 3
+most frequent words: btob x 3
+most frequent words: entry x 3
+most frequent words: hedging x 3
+most frequent words: rm x 3
+most frequent words: commercial x 3
+most frequent words: marketer x 3
+most frequent words: purpose x 3
+most frequent words: security x 3
+most frequent words: mobile x 3
+most frequent words: analyst x 3
+most frequent words: advertising x 3
+most frequent words: real-world x 3
+most frequent words: lynn cherny x 3
+most frequent words: new business x 3
+most frequent words: action x 3
+most frequent words: financial risk x 3
+most frequent words: business abroad x 3
+most frequent words: basel x 3
+most frequent words: organizational and managerial x 3
+most frequent words: communicate x 3
+most frequent words: income x 3
+most frequent words: production x 3
+most frequent words: audit x 3
+most frequent words: society x 3
+most frequent words: service marketing x 3
+most frequent words: dataset x 3
+most frequent words: societal x 3
+most frequent words: capital market x 3
+most frequent words: retailer x 3
+most frequent words: sense x 3
+most frequent words: transportation x 3
+most frequent words: open x 3
+most frequent words: google x 3
+most frequent words: career x 3
+most frequent words: productivity x 3
+most frequent words: awareness x 3
+most frequent words: optimization x 3
+most frequent words: innovative x 3
+most frequent words: stock x 3
+most frequent words: warehouse x 3
+most frequent words: cooper x 3
+most frequent words: branding x 3
+most frequent words: executive x 3
+most frequent words: machine x 3
+most frequent words: return x 3
+most frequent words: simon x 3
+most frequent words: public x 3
+most frequent words: trade x 3
+most frequent words: leverage x 3
+most frequent words: solvency x 3
+most frequent words: responsibility x 3
+most frequent words: social entrepreneurship x 3
+most frequent words: store x 3
+most frequent words: in-store sale x 2
+most frequent words: end customer x 2
+most frequent words: business decision x 2
+most frequent words: crm x 2
+most frequent words: environmental x 2
+most frequent words: management controller x 2
+most frequent words: creative x 2
+most frequent words: consult x 2
+most frequent words: financial product x 2
+most frequent words: value-added x 2
+most frequent words: computational x 2
+most frequent words: balance x 2
+most frequent words: trading x 2
+most frequent words: joint-venture x 2
+most frequent words: top management x 2
+most frequent words: decision and managerial x 2
+most frequent words: eg: international sale x 2
+most frequent words: auditor x 2
+most frequent words: ecr x 2
+most frequent words: entrepreneur and manager x 2
+most frequent words: sociological x 2
+most frequent words: business intelligence x 2
+most frequent words: strategic decision x 2
+most frequent words: supply chain management x 2
+most frequent words: microsoft x 2
+most frequent words: strategic management x 2
+most frequent words: ad x 2
+most frequent words: social venture x 2
+most frequent words: hr x 2
+most frequent words: abroad eg: international x 2
+most frequent words: international sale commercial x 2
+most frequent words: le x 2
+most frequent words: political x 2
+most frequent words: storage x 2
+most frequent words: ob x 2
+most frequent words: pr x 2
+most frequent words: stakeholder x 2
+most frequent words: skill for selling-playing x 2
+most frequent words: logistic management x 2
+most frequent words: customer service x 2
+most frequent words: scale x 2
+most frequent words: auditing x 2
+most frequent words: marketing btob x 2
+most frequent words: sustaining x 2
+most frequent words: evolution x 2
+most frequent words: new venture x 2
+most frequent words: nationalist and internationalist x 2
+most frequent words: hospital x 2
+most frequent words: financial asset x 2
+most frequent words: international economic x 2
+most frequent words: asia x 2
+most frequent words: retail management x 2
+most frequent words: programming language python x 2
+most frequent words: derivative security x 2
+most frequent words: ibm x 2
+most frequent words: fair x 2
+most frequent words: excel x 2
+most frequent words: audit firm x 2
+most frequent words: business analyst x 2
+most frequent words: tactic x 2
+most frequent words: selling x 2
+most frequent words: crises x 2
+most frequent words: cloud x 2
+most frequent words: crisis x 2
+most frequent words: offer x 2
+most frequent words: national x 2
+most frequent words: client x 2
+most frequent words: shareholder x 2
+most frequent words: lead x 2
+most frequent words: outsourcing x 2
+most frequent words: business analytics x 2
+most frequent words: globalization x 2
+most frequent words: decision-making x 2
+most frequent words: payment x 2
+most frequent words: enterprise x 2
+most frequent words: internationalist movement women x 2
+most frequent words: alliance x 2
+most frequent words: club x 2
+most frequent words: ethical x 2
+most frequent words: pressure x 2
+most frequent words: quality x 2
+most frequent words: invest x 2
+most frequent words: internet x 2
+most frequent words: actionable x 2
+most frequent words: profitability x 2
+most frequent words: consumer behavior x 2
+most frequent words: historical x 2
+most frequent words: bank and insurance x 2
+most frequent words: encourage x 2
+most frequent words: survival x 2
+most frequent words: oral x 2
+most frequent words: jean savinien x 2
+most frequent words: capital and private x 2
+most frequent words: cognitive x 2
+most frequent words: succeed x 2
+most frequent words: business abroad eg: x 2
+most frequent words: explanation x 2
+most frequent words: neuroscience x 2
+most frequent words: flight x 2
+most frequent words: revenue management x 2
+most frequent words: psychology x 2
+most frequent words: société générale x 2
+most frequent words: market opportunity x 2
+most frequent words: consulting x 2
+most frequent words: valuable x 2
+most frequent words: capability x 2
+most frequent words: sold x 2
+most frequent words: civil rights/ethnic nationalist x 2
+most frequent words: robert x 2
+most frequent words: teresa cooper kislik x 2
+most frequent words: brand manager x 2
+most frequent words: people x 2
+most frequent words: campaign x 2
+most frequent words: mastering x 2
+most frequent words: resistance x 2
+most frequent words: space x 2
+most frequent words: toolbelt x 2
+most frequent words: empowerment x 2
+most frequent words: market and industry x 2
+most frequent words: social movement x 2
+most frequent words: equipped x 2
+most frequent words: app x 2
+most frequent words: art x 2
+most frequent words: engagement x 2
+most frequent words: statistic x 2
+most frequent words: duty x 2
+most frequent words: profit x 2
+most frequent words: personal x 2
+most frequent words: sde x 2
+most frequent words: segmentation x 2
+most frequent words: deep x 2
+most frequent words: budgeting x 2
+most frequent words: buy x 2
+most frequent words: drawback x 2
+most frequent words: deciding x 2
+most frequent words: covering x 2
+most frequent words: industry and hospitality
